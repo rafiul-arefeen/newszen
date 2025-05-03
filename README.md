@@ -1,4 +1,4 @@
-# NewsZen
+![NewsZen Logo](screenshots/newszen_logo.png)
 
 ---
 
